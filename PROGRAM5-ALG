@@ -1,0 +1,4 @@
+Initialize the variable as character.
+Take the input as the character variable from the user.
+Then  write the logic to decode the variable into numbers.
+Then print the value for the given character value.
