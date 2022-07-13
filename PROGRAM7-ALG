@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input as a year from the user.
+Write a logic to find the leap year.
+If the condition is true print the output as leap year.
+If the condition is false then print the output as not a leap year.
